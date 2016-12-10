@@ -1,0 +1,4 @@
+class unique_pre are designed as standart unique_ptr
+but I have not write constructor with std::auto_ptr becaue auto_ptr now is depricated
+tests I have copyed from below mantioned link just for testing all constructors
+http://ru.cppreference.com/w/cpp/memory/unique_ptr/unique_ptr
